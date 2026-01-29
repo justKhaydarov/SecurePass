@@ -1,0 +1,12 @@
+# SecurePass Dependencies
+# Intelligent Password Security Analyzer
+
+# Core dependencies
+bcrypt>=4.0.0
+
+# Optional: zxcvbn for advanced password strength estimation
+zxcvbn>=4.4.28
+
+# For development/testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
